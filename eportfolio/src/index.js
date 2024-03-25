@@ -53,7 +53,7 @@ const AboutMe = () => {
               <SocialLink href="https://www.linkedin.com/in/sarsonk/" icon={<FaLinkedin />} />
               <SocialLink href="https://www.github.com/ksarson" icon={<FaGithub />} />
               <SocialLink href="mailto:ksarson10@gmail.com" icon={<FaEnvelope />} />
-              <SocialLink href="assets/KSarsonResume.pdf" icon={<FaFilePdf />} />
+              <SocialLink href="assets/KSarsonResumeWeb.pdf" icon={<FaFilePdf />} />
             </div>
           </div>
           <figure className="about-me__img--container">
