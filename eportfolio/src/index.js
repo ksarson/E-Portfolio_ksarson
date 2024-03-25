@@ -47,13 +47,13 @@ const AboutMe = () => {
             </h1>
             <p className="about-me__info--para">
               I'm an <strong className="text--blue">early career software developer</strong> possesing both a BSc and MSc of Computer Science.
-              I am currently pursuing career opportunites and am eager to begin a chapter of my software engineering journey!
+              I am currently pursuing career opportunites and am eager to begin the next chapter of my software engineering journey!
             </p>
             <div className="about-me__links">
               <SocialLink href="https://www.linkedin.com/in/sarsonk/" icon={<FaLinkedin />} />
               <SocialLink href="https://www.github.com/ksarson" icon={<FaGithub />} />
               <SocialLink href="mailto:ksarson10@gmail.com" icon={<FaEnvelope />} />
-              <SocialLink href="assets/KSarsonResume22.pdf" icon={<FaFilePdf />} />
+              <SocialLink href="assets/KSarsonResume.pdf" icon={<FaFilePdf />} />
             </div>
           </div>
           <figure className="about-me__img--container">
